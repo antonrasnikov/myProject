@@ -1,0 +1,16 @@
+.input-container {
+    display: flex;
+    justify-content: center;
+}
+.mainInput {
+margin-top: 100px;
+display: flex;
+height: 20px;
+width: 240px;
+}
+.add-button-style {
+    margin-top: 140px;
+    position: absolute;
+    width: 4%;
+    height:4%;
+}
